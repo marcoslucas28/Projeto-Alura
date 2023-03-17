@@ -68,7 +68,7 @@
                                 color: var(--cor-secundaria);
                                 font-family: var(--fonte--secundario);}
 
-.apresentacao__links__links:hover {background-color: var(--cor-hover);}
+.apresentacao__links__navegacao:hover {background-color: var(--cor-hover);}
 
 .apresentacao__imagem {width: 50%;}
 
